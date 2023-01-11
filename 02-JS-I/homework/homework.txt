@@ -1,0 +1,5 @@
+Variables: son como una caja vacía, las usamos para guardar algo.
+Strings: es una cadena de texto, un conjunto de caracteres.
+Funciones: son expresiones que nos permiten calcular algo, hacer algo, devolver algo. Los argumentos son variables que la función llama para realizar lo que se le indicó que haga. Return devuelve lo que calcula la función, el código que sigue a return no se ejecuta.
+Declaraciones If: se utilizan para que, cuando se cumple una determinada condición, se ejecute una acción o se genere un determinado resultado.
+Valores Booleanos: True or False. True cuando la condición es verdadera y False cuando no lo es.
