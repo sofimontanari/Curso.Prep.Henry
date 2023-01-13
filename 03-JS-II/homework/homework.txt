@@ -1,0 +1,4 @@
+* `for`: es un statement que se utiliza para ejecutar un bucle, que se ejecutará hasta que la variable que definimos alcance el valor máximo que establecimos.
+* `&&`: operador and (Y), es un operador lógico que devolverá true sí y sólo sí todas las expresiones son verdaderas y devolverá false cuando al menos una de ellas sea falsa.
+`||`: oerador or (o), es un operador lógico que devolverá true cuando al menos una de las expresiones sea verdadera y devolverá false cuando ninguna de ellas sea verdadera.
+ `!: operador not (no), se usa para negar la expresión, es decir, devolver lo contrario a la expresión. Si la expresión es verdadera, agregando el not se convertirá en falsa y viceversa.
