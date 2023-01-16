@@ -1,0 +1,1 @@
+arrays: los arreglos son variables que pueden almacenar más de un elemento. Se comportan como vectores, donde, a cada posición en el vector, se le puede asignar un elemento, que puede ser un número, un bolleano, un string, otro arreglo y hasta una función. Se indexan las posiciones del vector para poder acceder a sus elementos, inciiando por la posicón 0.
