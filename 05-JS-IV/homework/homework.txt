@@ -1,0 +1,5 @@
+* Objetos: JavaScript se basa en objetos. Un objeto es una variable donde se almacena información (números, strings, booleanos, arreglos, métodos) en forma de claves. Para acceder a estos valores hay que invocar el objeto y la clave.
+* Propiedades: son las claves de los objetos, que contienen la información almacenada.
+* Métodos: son funciones definidas dentro de un objeto.
+* Bucle `for…in`: se utiliza para iterar dentro de un objeto y poder recorrer sus claves.
+* Notación de puntos vs notación de corchetes: la notación por puntos o DOT NOTATION es una forma más simple para acceder a una propiedad de un objeto, ej: objeto.propiedad1. La notación por corchetes requiere más tipeado pero tiene otras ventajas, ej: objeto['propiedad1']
