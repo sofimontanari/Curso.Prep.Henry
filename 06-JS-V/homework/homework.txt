@@ -1,0 +1,2 @@
+`prototype`: es un objeto de referencia.
+* _Constructors_ (de Clases): son plantillas que sirven para crear objetos que comparten algunas propiedades y métodos.
