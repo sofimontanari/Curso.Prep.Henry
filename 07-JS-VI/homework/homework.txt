@@ -1,0 +1,1 @@
+Funciones Callback: son funciones que se pasan como argumentos para ser llamadas desde otra función. La función que es llamada como cb debe tener al menos un parámetro.
