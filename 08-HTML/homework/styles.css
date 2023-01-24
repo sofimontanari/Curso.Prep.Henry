@@ -2,6 +2,7 @@ h1{color: coral;}
 img{width: 400px}
 thirdDiv {height: 600px;width: 500px; background-color: antiquewhite; padding: 50px; border: 2px;border-color: aquamarine;border-style: dotted;}
 spanId{font-size: 18px; margin: 50px;}
+#spanId{position: relative; right: 250px;bottom: -150px;}
 body{background-image:url("https://img.freepik.com/vector-gratis/fondo-pintado-acuarela-pastel_23-2148959636.jpg?w=2000") ; background-position: center; background-repeat: no-repeat; background-size: cover;}    
 div{text-align: center;}
 body{align-items:center;}
