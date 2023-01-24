@@ -1,5 +1,18 @@
 h1{color: coral;}
 img{width: 400px}
 thirdDiv {height: 600px;width: 500px; background-color: antiquewhite; padding: 50px; border: 2px;border-color: aquamarine;border-style: dotted;}
-spanId{font-size: 18px; margin: 50px;}
-    
+divClass2{position: relative;height: 500px;width: 500px;top: -800px;}
+spanId{font-size: 18px; margin: 50px; position: absolute; top: -900px;right: -500px;}
+body{background-image:url("https://img.freepik.com/vector-gratis/fondo-pintado-acuarela-pastel_23-2148959636.jpg?w=2000") ; background-position: center; background-repeat: no-repeat; background-size: cover;}    
+div{text-align: center;}
+body{align-items:center;}
+a {position: relative; bottom:-200px;right:600px;background-color:coral;font-family:cursive;font-size: medium;font-style: oblique;}
+ul li::marker {color: transparent ;font-size: 0%;}
+.img1{margin-bottom:50px;}
+.img2{margin-top: 50px;}
+.box1{display: flex;
+    align-items: center;
+    justify-content: center;}
+    .box2{display: flex;
+        align-items: center;
+        justify-content: center;}
