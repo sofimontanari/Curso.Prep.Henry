@@ -1,0 +1,15 @@
+
+.foto{display:inline-block;position:relative;height: 400px;width: 300px;top:-80px; left:-200px;border: 2px;border-color: rgb(179, 115, 179);border-style:solid;object-fit: contain;}
+#mifoto{height: 400px;width: 300px;}
+.recuadro{height: 50px;background-color: rgb(179, 115, 179);}
+.barra{display:inline-block;position:relative;top:0px;right: -1100px;width:233px;height:600px; background-color: rgb(236, 220, 236)}
+#nombre{font-weight: bold;font-family: sans-serif;font-size: 30px;position: relative; top: -350px; left:300px;text-align: right;}
+#titulo{font: bold;font-family:Arial, Helvetica, sans-serif;font-size: 20px;position: relative; top: -300px; left:180px;text-align: right;}
+.linea{color:rgb(197, 93, 197);border-style: solid;width: 1328px;position: relative;top:600px; left: -1100px;}
+.datos{display: inline-block;position: relative;top: -200px;}
+#misdatos{display: block;text-align: right; position: relative;left: -122px; font-family: serif;font-size: 16px;margin: 4px;}
+section{font-weight: bold;font-size: 20px;color: rgb(194, 6, 241);display:table-raw; background-color: blueviolet;color: antiquewhite;text-align:left;}
+li{margin: 15px;}
+h1{font-size: 22px;}
+h2{font-size: 18px;}
+h3{font-size: 16px;}
